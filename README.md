@@ -722,52 +722,27 @@ Explicitly identify the unavailable data source.
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-Add screenshots of the working application here.
+### 📊 Dashboard
 
-Recommended screenshots:
-
-### Dashboard
-
-```text
-screenshots/dashboard.png
-```
-
-### Risk Prediction
-
-```text
-screenshots/prediction.png
-```
-
-### Interactive Map
-
-```text
-screenshots/map.png
-```
-
-### Prediction Result
-
-```text
-screenshots/prediction-result.png
-```
-
-### Alerts / Warning Center
-
-```text
-screenshots/alerts.png
-```
-
-Once the screenshots are added to the repository, they can be displayed like this:
-
-```markdown
 ![Dashboard](screenshots/dashboard.png)
-![Risk Prediction](screenshots/prediction.png)
-![Interactive Map](screenshots/map.png)
-![Prediction Result](screenshots/prediction-result.png)
-```
 
----
+### 🤖 Risk Prediction
+
+![Risk Prediction](screenshots/prediction.png)
+
+### 🗺️ Interactive Map
+
+![Interactive Map](screenshots/map.png)
+
+### 📈 Prediction Result
+
+![Prediction Result](screenshots/prediction-result.png)
+
+### ⚠️ Alerts / Warning Center
+
+![Alerts](screenshots/alerts.png)
 
 # 🎓 Smart India Hackathon
 
