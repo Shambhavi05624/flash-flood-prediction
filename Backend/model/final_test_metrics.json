@@ -1,0 +1,19 @@
+{
+  "model": "RandomForest",
+  "target": "flash_flood_proxy_label",
+  "target_definition": "1=historical_flood_inventory_event_within_10km; 0=no_inventory_event_within_10km",
+  "test_rows": 22264,
+  "accuracy": 0.9998652533237513,
+  "precision": 0.9996390543223245,
+  "recall": 0.9998194945848375,
+  "f1": 0.9997292663117047,
+  "roc_auc": 0.9999997841360737,
+  "pr_auc": 0.9999993476899903,
+  "brier_score": 0.0038191758131913608,
+  "true_negative": 16722,
+  "false_positive": 2,
+  "false_negative": 1,
+  "true_positive": 5539,
+  "test_set_used_for_training": false,
+  "test_set_used_for_threshold_tuning": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "PS 26192 Flash Flood Prediction System",
+  "description": "Multi-Source AI Flash Flood Prediction System for Hilly Regions (CodeOrbit, Amity University Jharkhand)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
